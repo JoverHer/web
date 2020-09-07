@@ -12,6 +12,7 @@
 			<li> <a href="/servicios">Servicios</li>
 			<li> <a href="/contacto">Contacto</li>	
 		</ul>
+		
 	</nav>
 
 	@yield('contenido')

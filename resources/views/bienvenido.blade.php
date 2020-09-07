@@ -12,7 +12,9 @@
 		<li> <a href="/servicios">Servicios</li>
 		<li> <a href="/contacto">Contacto</li>	
 	</ul>
+	<nav>
+		<h1>BIENVENIDO - ACTIVIDAD 1 - LARAVEL.</h1>
+	</nav>
 </nav>
-
 </body>
 </html>
